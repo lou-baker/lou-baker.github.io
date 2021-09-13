@@ -4,7 +4,7 @@ layout: hello-default
 # using Markdown language, you can customize the following variables!
 
 # these variables are required -------------------------------
-banner_title: LUCI BAKER
+banner_title: Luci Baker, PhD
 banner_subtitle: environmental fluid mechanics researcher
 background_image: /images/background.jpeg
 
