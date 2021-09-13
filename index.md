@@ -17,14 +17,14 @@ favicon: /assets/ico/favicon.ico
 # social media
 # twitter_username:  # your twitter handle
 # github_username:  saragong # your github username
-linkedin: lucibaker # the part after ("https://www.linkedin.com/in/...")
+# linkedin: lucibaker # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-# about_button: https://github.com/saragong/hello # the link
-# about_button_label: get hello # the label on the button
+about_button: https://lucibaker.github.io/files/CV_Lucia_Baker.pdf # the link
+about_button_label: CV # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -43,4 +43,8 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
+
+![headshot](/images/IMG_0480 - Copy (3).jpg)
+<div align="center"> <em>Proper eye protection is important for laboratory safety.</em> </div>
+
 Hello! I am currently a postdoc at the University of Washington working with [Michelle DiBenedetto](https://www.michellediben.com), where I study the vertical mixing and transport of microplastic particles in wind-driven turbulence at the ocean surface through laboratory experiments and numerical models. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti in the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in boundary layer turbulence. When I'm not in the lab I like to [read](https://www.goodreads.com/user/show/70817449-luci) and be outdoors.
