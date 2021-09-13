@@ -37,7 +37,7 @@ portfolio_description: publications available on <a href="https://scholar.google
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: please don't hesitate to reach out. email: ljbak [at] uw [dot] edu # a description to be desplayed below the heading and above the content
+cta_description: please don't hesitate to reach out. # email: ljbak [at] uw [dot] edu # a description to be desplayed below the heading and above the content
 cta_button: mailto:ljbak@uw.edu # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
