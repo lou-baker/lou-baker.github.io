@@ -19,5 +19,6 @@ research:
       - item: hgels.html
 	image: /images/video-still.PNG
   - category: Particle clustering
+    items:
       - item: clusters.html
 	image: /images/Figure_5g.png
