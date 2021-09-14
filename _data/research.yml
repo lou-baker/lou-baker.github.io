@@ -2,14 +2,12 @@
 # in the root directory
 
 research:
-  - category: Microplastics in environmental flows
+  - category: Fluid-particle interactions in turbulence
     items:
       - item: mp1.html
         image: /images/turb_mixing.png # optionally, include the file path for an image for each item
       - item: osl.html
         image: /images/OSL4_slow_meander-xxshort.gif
-  - category: Fluid-particle interactions in turbulence
-    items:
       - item: sphere-wall.html
         image: /images/sphere-wall-subsamp.gif
       - item: disks-rods.html
