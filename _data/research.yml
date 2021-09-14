@@ -6,10 +6,10 @@ research:
     items:
       - item: mp1.html
         image: /images/turb_mixing.png # optionally, include the file path for an image for each item
-      - item: osl.html
-        image: /images/OSL4_slow_meander-xxshort.gif
       - item: sphere-wall.html
         image: /images/sphere-wall-subsamp.gif
+      - item: osl.html
+        image: /images/OSL4_slow_meander-xxshort.gif
       - item: disks-rods.html
         image: /images/disk_1165 - rod_2221.png
       - item: hgels.html
