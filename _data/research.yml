@@ -12,10 +12,9 @@ research:
     items:
       - item: sphere-wall.html
         image: /images/sphere-wall-subsamp.gif
-      - item: rods.html
-        image: /images/rod_tracks.gif
       - item: disks.html
         image: /images/disk_1165.png
+        image: /images/rod_2781.png
       - item: hgels.html
         image: /images/video-still.PNG
   - category: Particle clustering
