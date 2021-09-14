@@ -2,23 +2,22 @@
 # in the root directory
 
 work:
-  - category: New York City
+  - category: Microplastics in environmental flows
     items:
-      - item: example.html
-        image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
-        image: /images/NYC2.jpg
-      - item: example2.html
-        image: /images/NYC3.jpg
-      - item: example3.html
-        image: /images/NYC4.jpg
-  - category: Los Angeles
+      - item: mp1.html
+        image: /images/turb_mixing.png # optionally, include the file path for an image for each item
+      - item: osl.html
+        image: /images/OSL4_slow_meander-xxshort.gif
+  - category: Fluid-particle interactions in turbulent boundary layers
     items:
-      - item: example.html
-        image: /images/LA1.jpg
-      - item: example.html
-        image: /images/LA2.jpg
-      - item: example2.html
-        image: /images/LA3.jpg
-      - item: example3.html
-        image: /images/LA4.jpg
+      - item: sphere-wall.html
+        image: /images/sphere-wall-subsamp.gif
+      - item: rods.html
+        image: /images/rod_tracks.gif
+      - item: disks.html
+        image: /images/disk_1165.png
+      - item: hgels.html
+	image: /images/video-still.PNG
+  - category: Particle clustering
+      - item: clusters.html
+	image: /images/Figure_5g.png
