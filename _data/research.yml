@@ -17,8 +17,8 @@ research:
       - item: disks.html
         image: /images/disk_1165.png
       - item: hgels.html
-	image: /images/video-still.PNG
+        image: /images/video-still.PNG
   - category: Particle clustering
     items:
       - item: clusters.html
-	image: /images/Figure_5g.png
+        image: /images/Figure_5g.png
