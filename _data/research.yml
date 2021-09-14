@@ -8,16 +8,13 @@ research:
         image: /images/turb_mixing.png # optionally, include the file path for an image for each item
       - item: osl.html
         image: /images/OSL4_slow_meander-xxshort.gif
-  - category: Fluid-particle interactions in turbulent boundary layers
+  - category: Fluid-particle interactions in turbulence
     items:
       - item: sphere-wall.html
         image: /images/sphere-wall-subsamp.gif
-      - item: disks.html
-        image: /images/disk_1165.png
-        image: /images/rod_2781.png
+      - item: disks-rods.html
+        image: /images/disk_1165 - rod_2221.png
       - item: hgels.html
         image: /images/video-still.PNG
-  - category: Particle clustering
-    items:
       - item: clusters.html
         image: /images/Figure_5g.png
