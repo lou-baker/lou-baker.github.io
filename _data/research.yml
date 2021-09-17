@@ -1,0 +1,18 @@
+# this file organizes the items in your portfolio, which are placed in the _includes folder
+# in the root directory
+
+research:
+  - category: Fluid-particle interactions in turbulence
+    items:
+      - item: mp1.html
+        image: /images/turb_mixing.png # optionally, include the file path for an image for each item
+      - item: sphere-wall.html
+        image: /images/sphere-wall-still.png
+      - item: osl.html
+        image: /images/OSL4_slow_meander-xxshort.gif
+      - item: disks-rods.html
+        image: /images/disk_1165 - rod_2221.png
+      - item: hgels.html
+        image: /images/video-still-crop.png
+      - item: clusters.html
+        image: /images/Figure_5g.png
