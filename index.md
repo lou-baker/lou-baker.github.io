@@ -15,9 +15,9 @@ page_url:  # only include this variable if you aren't building the page to your 
 favicon: /assets/ico/favicon.ico
 
 # social media
-# twitter_username:  # your twitter handle
+twitter_username:  LuciJBaker # your twitter handle
 # github_username:  saragong # your github username
-# linkedin: lucibaker # the part after ("https://www.linkedin.com/in/...")
+linkedin: lucibaker # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
 
@@ -46,4 +46,4 @@ cta_button_label: contact # the label on the button
 
 <img src="/images/IMG_0480 - Copy (3).jpg" height="400">
 
-I am a postdoc in Mechanical Engineering at the University of Washington working with [Michelle DiBenedetto](https://www.michellediben.com). I'm currently investigating vertical mixing of microplastic particles by wind-driven turbulence in the ocean surface boundary layer through laboratory experiments and numerical models. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti in the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. When I'm not in the lab, I enjoy being outdoors and reading books.
+I am a postdoc in Mechanical Engineering at the University of Washington working with [Michelle DiBenedetto](https://www.michellediben.com). I'm currently investigating vertical mixing of microplastic particles by wind-driven turbulence in the ocean surface boundary layer through laboratory experiments and numerical models. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti in the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. When I'm not in the lab, I enjoy being outdoors and [reading books](https://www.goodreads.com/user/show/70817449-luci).
