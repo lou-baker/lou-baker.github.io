@@ -16,4 +16,6 @@ research:
         image: /images/video-still-crop.png
       - item: clusters.html
         image: /images/Figure_5g.png
+  - category: Code repositories
+    items:
       - item: codelinks.html
