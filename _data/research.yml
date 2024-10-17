@@ -18,5 +18,4 @@ research:
         image: /images/Figure_5g.png
   - category: Code repositories
     items:
-      - item: fm-toolbox-link.html
       - item: shadowtracking-link.html
