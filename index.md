@@ -37,13 +37,13 @@ portfolio: research # the heading for your portfolio and title of your YAML file
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: please don't hesitate to reach out at ljbak at uw dot edu. # a description to be desplayed below the heading and above the content
-cta_button: mailto:ljbak@uw.edu # a link to an external website or to media
-cta_button_label: contact # the label on the button
+cta_description: please don't hesitate to reach out at ljbaker36 at gmail dot com. # a description to be desplayed below the heading and above the content
+# cta_button: mailto:ljbak@uw.edu # a link to an external website or to media
+# cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
 
 <img src="/images/IMG_5432 - 2.jpg" height="400">
 
-I use lab-based experiments to study how particles move in turbulent fluids. My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface), with Michelle DiBenedetto at the University of Washington, focuses on the vertical mixing of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti at the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. In my free time, I enjoy creative writing and country dancing.
+I use lab-based experiments to study how particles move in turbulent fluids. My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface), with Michelle DiBenedetto at the University of Washington, focuses on the vertical mixing of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti at the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. In my free time, I enjoy creative writing and country dancing. I use she/they pronouns. 
