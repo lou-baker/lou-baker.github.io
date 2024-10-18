@@ -5,7 +5,7 @@ research:
   - category: Fluid-particle interactions in turbulence
     items:
       - item: mp1.html
-        image: /images/turb_mixing with waves8.png # optionally, include the file path for an image for each item
+        image: /images/mp schematic.png # optionally, include the file path for an image for each item
       - item: osl.html
         image: /images/OSL4_slow_meander-xxshort.gif
       - item: disks-rods.html
