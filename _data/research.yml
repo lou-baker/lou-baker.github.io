@@ -6,12 +6,12 @@ research:
     items:
       - item: mp1.html
         image: /images/turb_mixing with waves8.png # optionally, include the file path for an image for each item
-      - item: sphere-wall.html
-        image: /images/sphere-wall-still.png
       - item: osl.html
         image: /images/OSL4_slow_meander-xxshort.gif
       - item: disks-rods.html
         image: /images/disk_1165 - rod_2221.png
+        - item: sphere-wall.html
+        image: /images/sphere-wall-still.png
       - item: hgels.html
         image: /images/video-still-crop.png
       - item: clusters.html
@@ -19,3 +19,4 @@ research:
   - category: Code repositories
     items:
       - item: shadowtracking-link.html
+        image: /images/tracks.png
