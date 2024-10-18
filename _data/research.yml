@@ -10,7 +10,7 @@ research:
         image: /images/OSL4_slow_meander-xxshort.gif
       - item: disks-rods.html
         image: /images/disk_1165 - rod_2221.png
-        - item: sphere-wall.html
+      - item: sphere-wall.html
         image: /images/sphere-wall-still.png
       - item: hgels.html
         image: /images/video-still-crop.png
