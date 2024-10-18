@@ -8,10 +8,10 @@ research:
         image: /images/mp schematic.png # optionally, include the file path for an image for each item
       - item: osl.html
         image: /images/OSL4_slow_meander-xxshort.gif
-      - item: disks-rods.html
-        image: /images/disk_1165 - rod_2221.png
       - item: sphere-wall.html
         image: /images/sphere-wall-still.png
+      - item: disks-rods.html
+        image: /images/disk_1165 - rod_2221.png
       - item: hgels.html
         image: /images/video-still-crop.png
       - item: clusters.html
