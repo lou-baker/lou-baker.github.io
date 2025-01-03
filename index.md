@@ -23,8 +23,8 @@ linkedin: lucibaker # the part after ("https://www.linkedin.com/in/...")
 
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://lucibaker.github.io/files/CV_Luci_Baker.pdf # the link
-about_button_label: CV # the label on the button
+# about_button: https://lucibaker.github.io/files/CV_Luci_Baker.pdf # the link
+# about_button_label: CV # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -37,7 +37,7 @@ portfolio: research # the heading for your portfolio and title of your YAML file
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: please don't hesitate to reach out at ljbaker36 at gmail dot com. # a description to be desplayed below the heading and above the content
+cta_description: please reach out at ljbaker36 at gmail dot com. # a description to be desplayed below the heading and above the content
 # cta_button: mailto:ljbak@uw.edu # a link to an external website or to media
 # cta_button_label: contact # the label on the button
 
