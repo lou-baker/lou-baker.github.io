@@ -46,4 +46,8 @@ cta_description: please reach out at ljbaker36 at gmail dot com. # a description
 
 <img src="/images/IMG-20250404-WA0003 crop.jpg" height="400">
 
-I use lab-based experiments to study how particles move in turbulent flows. My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface) in the Environmental Fluid Mechanics group at the University of Washington focuses on the vertical mixing and orientation of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD in Aerospace Engineering & Mechanics from the University of Minnesota, where I explored fluid-particle interactions in turbulence. In my free time I enjoy dancing and [creative writing](https://notesfromtheinflectionpoint.substack.com/).  
+I use lab-based experiments to study how particles move in turbulent flows. 
+
+My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface) in the Environmental Fluid Mechanics group at the University of Washington focuses on the vertical mixing and orientation of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD in Aerospace Engineering & Mechanics from the University of Minnesota, where I explored fluid-particle interactions in turbulence. 
+
+In my free time I enjoy dancing and [creative writing](https://notesfromtheinflectionpoint.substack.com/).  
