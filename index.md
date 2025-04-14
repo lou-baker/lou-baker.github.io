@@ -23,8 +23,8 @@ favicon: /assets/ico/favicon.ico
 
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://lucibaker.github.io/files/CV_Lou_Baker1.pdf # the link
-about_button_label: CV # the label on the button
+# about_button: https://lucibaker.github.io/files/CV_Lou_Baker1.pdf # the link
+# about_button_label: CV # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -44,6 +44,6 @@ cta_description: please reach out at ljbaker36 at gmail dot com. # a description
 ---			
 [//]: # (write a bit about yourself here)
 
-<img src="/images/IMG-20250404-WA0003 crop" height="400">
+<img src="/images/IMG-20250404-WA0003 crop.jpg" height="400">
 
-I use lab-based experiments to study how particles move in turbulent fluids. My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface), with Michelle DiBenedetto at the University of Washington, focuses on the vertical mixing of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti at the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. In my free time, I enjoy dancing and [writing](https://notesfromtheinflectionpoint.substack.com/).  
+I use lab-based experiments to study how particles move in turbulent fluids. My [postdoc research](https://www.me.washington.edu/news/article/2022-07-29/how-do-microplastics-behave-ocean-surface), with Michelle DiBenedetto at the University of Washington, focuses on the vertical mixing of microplastic particles in wind-driven waves and turbulence in the ocean surface boundary layer. I received my PhD from the University of Minnesota, where I worked with Filippo Coletti at the [Laboratories for Turbulent and Complex Flows](https://cse.umn.edu/aem/laboratories-turbulent-and-complex-flows) and the [St. Anthony Falls Lab](https://cse.umn.edu/safl) to explore fluid-particle interactions in turbulence. In my free time I enjoy dancing and [creative writing](https://notesfromtheinflectionpoint.substack.com/).  
