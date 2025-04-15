@@ -23,8 +23,8 @@ favicon: /assets/ico/favicon.ico
 
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-# about_button: https://lucibaker.github.io/files/CV_Lou_Baker1.pdf # the link
-# about_button_label: CV # the label on the button
+about_button: https://lucibaker.github.io/files/CV_Lou_Baker1.pdf # the link
+about_button_label: CV # the label on the button
 
 # optional portfolio section ------------------------------------------
 
